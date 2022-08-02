@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 #load the model and dataframe
-df = pd.read_csv("df.csv")
+df = pd.read_csv("laptop_data.csv")
 pipe = pickle.load(open("pipe.pkl", "rb"))
 
 st.title("Laptop Price Predictor")
