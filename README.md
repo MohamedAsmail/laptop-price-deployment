@@ -9,3 +9,4 @@ A simple Machine learning web app deployed on Heroku which predict laptop prices
 Thank You!.
 
 # heroku app 
+https://heroku-app-laptop.herokuapp.com/
