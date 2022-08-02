@@ -7,3 +7,6 @@ A simple Machine learning web app deployed on Heroku which predict laptop prices
 -->
 
 Thank You!.
+
+# heroku app 
+https://github.com/MohamedAsmail/laptop-price-deployment/deployments/activity_log?environment=heroku-app-laptop
